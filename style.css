@@ -1,8 +1,8 @@
 :root {
   /* widths for rows and containers
      */
-  --header-height: 160px;
-  --header-height-min: 80px;
+  --header-height: 161px;
+  --header-height-min: 81px;
 }
 
 /* on mobile devices below 600px
